@@ -10,6 +10,8 @@ as in books published in Iceland or written in the Icelandic language.
 
 ### Publisher List
 [JPV](/publishers/JPV.md)
+[Edda.is](/publishers/Edda.md)
+[Disney](/publishers/Edda.md)
 ### Authors
 ### Release date
 ### Where available

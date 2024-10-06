@@ -8,7 +8,8 @@ as in books published in Iceland or written in the Icelandic language.
 - [ ] searchable
 - [ ] add author birth year and death year
 
-### Listing publishers
+### Publisher List
+[JPV](/publishers/JPV.html)
 ### Authors
 ### Release date
 ### Where available

@@ -9,9 +9,9 @@ as in books published in Iceland or written in the Icelandic language.
 - [ ] add author birth year and death year
 
 ### Publisher List
-[JPV](/publishers/JPV.md)
-[Edda.is](/publishers/Edda.md)
-[Disney](/publishers/Edda.md)
+- [JPV](/publishers/JPV.md)
+- [Edda.is](/publishers/Disney.md)
+- [Disney](/publishers/Disney.md)
 ### Authors
 ### Release date
 ### Where available

@@ -1,21 +1,21 @@
-Title,author, copies,cost
-The Wallflower #3b, Tomoko Hayakawa, 1,
-The Wallflower #8, Tomoko Hayakawa, 1,
-Skref fyrir skref, Louis Sachar, 1,
-Scarlet Feather,Maeve Binchy,1,
-í Þágu Barnsins,Delores Fossen,1,
-The Brain Pickers,Hallie Burnett,1,
-Tímarit 2023, Máls og Menningar,1,
-Áls die Tiere Noch Spráchen, Jean Effel,1,
-In the Active Voice,Mary Douglas,1,
-Veðurtepptur, Hjörleifur Hjartarson,1,
-Sjálsagður rétt þinn, Robert Alberti and Michael L. Simmons,1,
-Er ekki allt í lagi með þig?,Elísa Jóhannsdóttir,1,4999 ISK
-Lúin bein,Helgi Ingólfsson,1.8,990
-Edda Snorra Sturlusonar,Gunnar Skarphéðinsson,2,6395 ISK
-Orðengill,Sverrir Stormsker,1,0
-Syrpa #144, Disney,1.8,100 ISK
-Anna í Grænuhlíð,L.M.Montgomery,1,250 ISK
-Anna í Grænuhlíð IV Anna Giftist,L.M.Montgomery,1,0
-Benjamín Dufa,Friðrik Erlingsson,3,4290 ISK
-Ronja Ræningjadóttir,Astrid Lindgren,1,250 ISK
+Title,author, copies,cost,sale price
+The Wallflower #3b, Tomoko Hayakawa, 1,,
+The Wallflower #8, Tomoko Hayakawa, 1,,
+Skref fyrir skref, Louis Sachar, 1,,
+Scarlet Feather,Maeve Binchy,1,,
+í Þágu Barnsins,Delores Fossen,1,,
+The Brain Pickers,Hallie Burnett,1,,
+Tímarit 2023, Máls og Menningar,1,,
+Áls die Tiere Noch Spráchen, Jean Effel,1,,
+In the Active Voice,Mary Douglas,1,,
+Veðurtepptur, Hjörleifur Hjartarson,1,,
+Sjálsagður rétt þinn, Robert Alberti and Michael L. Simmons,1,,
+Er ekki allt í lagi með þig?,Elísa Jóhannsdóttir,1,4999 ISK,
+Lúin bein,Helgi Ingólfsson,1.8,990,
+Edda Snorra Sturlusonar,Gunnar Skarphéðinsson,2,6395 ISK,
+Orðengill,Sverrir Stormsker,1,0,
+Syrpa #144, Disney,1.8,100 ISK,
+Anna í Grænuhlíð,L.M.Montgomery,1,250 ISK,
+Anna í Grænuhlíð IV Anna Giftist,L.M.Montgomery,1,0,
+Benjamín Dufa,Friðrik Erlingsson,3,4290 ISK,6900 ISK
+Ronja Ræningjadóttir,Astrid Lindgren,1,250 ISK,2500 ISK
